@@ -2,12 +2,75 @@ body {
     background-color: black;
 }
 
-h1 {
-    color: white;
+.profile {
     text-align: center;
 }
 
-p {
+.profile .profile-picture {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.profile .displayname {
     color: white;
-    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+
+.profile .username {
+    color: white;
+}
+
+.profile .socials .discord {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .github {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .twitch {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .reddit {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .x {
+    border-radius: 50%;
+    height: 50px;
+    width: 60px;
+}
+
+.profile .socials .steam {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .spotify {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .roblox {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.profile .socials .epicgames {
+    border-radius: 50%;
+    height: 50px;
+    width: 85px;
 }
