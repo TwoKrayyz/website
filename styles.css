@@ -1,9 +1,14 @@
 body {
-    background-image: url('./images/background-1.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0;
+    background-color:white;
+}
+
+img {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 1080px;
+    object-fit: cover;
 }
 
 h1 {
