@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #E500FF, #00D5FF);
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile .pfp {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.toolbox {
+    text-align: right;
+}
+
+.socials {
+    text-align: right;
+}
+
+.footer > footer {
+    text-align: right;
+}
