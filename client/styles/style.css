@@ -1,0 +1,80 @@
+body {
+  background-color: #34495E;
+}
+
+.container {
+  text-align: center;
+  color: white;
+}
+
+.container img {
+  width: 50px;
+  height: 50px;
+  margin: 1%;
+}
+
+.container #html {
+  width: 40px;
+  height: 50px;
+}
+
+.container #css {
+  width: 40px;
+  height: 50px;
+}
+
+.container #tailwind {
+  width: 60px;
+  height: 43px;
+}
+
+.container #javascript {
+  width: 43px;
+  height: 43px;
+}
+
+.container #react {
+  width: 50px;
+  height: 43px;
+}
+
+.container #vite {
+  width: 52px;
+  height: 40px;
+}
+
+.container #typescript {
+  width: 43px;
+  height: 43px;
+}
+
+.container #nodejs {
+  width: 43px;
+  height: 43px;
+}
+
+.container #discordjs {
+  width: 43px;
+  height: 43px;
+}
+
+.container #npm {
+  width: 43px;
+  height: 43px;
+}
+
+footer {
+  color: white;
+  margin-top: 27%;
+  font-size: 150%;
+}
+
+footer #gmail {
+  width: 25px;
+  height: 20px;
+}
+
+footer #discord {
+  width: 23px;
+  height: 23px;
+}
